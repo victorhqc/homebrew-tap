@@ -1,6 +1,6 @@
 cask "filbert" do
-  version "0.24.0"
-  sha256 "3bea615d33ca5158478d531dd98356f9a365ea4cca09cbdbb3057e279aa47cd7"
+  version "0.25.0"
+  sha256 "c645d99c3c3a821ddc2b0a195d24347affbd7434e657be0d1825cc640cbaab18"
 
   url "https://github.com/victorhqc/filbert/releases/download/v#{version}/Filbert-#{version}-arm64.dmg"
   name "Filbert"
